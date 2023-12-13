@@ -1,0 +1,93 @@
+
+.konteyner{
+    margin:auto;
+    width:97%;
+    height:400px;
+}
+
+#arama_motoru{
+    background-color: white;
+    width:350px;
+    height:20px;
+    margin:0px auto 0px auto;
+    border:1px black solid;
+}
+
+.butonlar{
+    border: 1px black solid;
+    margin:0px 0px 0px 420px;
+    float:left;
+    background-color:#bfbfbf ;
+    width:120px;
+    height:20px;
+    text-align: center;
+    border-radius:3px;
+    font-size:15px;
+}
+
+.nav{
+    background-color: #EEEEEE ;
+    margin: auto;
+    text-align:center;
+    width:1100px;
+    height:80px;
+}
+
+.section{
+    text-align:center;
+    margin:10px auto 10px auto;
+    width:1100px;
+    height:87px;
+}
+
+#article_1{
+    background-color: #7EE5DA;
+    width:400px;
+    height: 85px;
+    margin-right:5px; 
+    padding-top:0px;
+    font-size:15px;
+    float:left;
+}
+
+#article_2{
+    background-color: #70CCC2;
+    font-size:15px;
+    width:250px;
+    height:85px;
+    float:left;
+    margin-right:5px;  
+}
+
+#article_3{
+    background-color:#62B3AA ;
+    width:437px;
+    height:85px;
+    font-size: 12px;
+    float:left;
+}
+
+#e_mail{
+    background-color: rgb(255, 255, 255);
+    height: 18px;
+    width:200px;
+    border:1px black solid;
+    margin:-10px auto 0px auto;
+    text-align:left;
+    font-size:15px;
+}
+
+#subscribe{
+    background-color:#bfbfbf;
+    width:70px;
+    height:18px;
+    border: 1px black solid;
+    text-align:center;
+    margin-left:130px;
+    border-radius:3px;
+}
+
+
+
+
+
