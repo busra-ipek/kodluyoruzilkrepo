@@ -11,6 +11,7 @@
 .yaziboyut{   
     font-size:18px;
 }
+
 .section{
    
     text-align:left;
@@ -23,12 +24,12 @@
     margin:-22px -8px -22px -8px;
     padding:13px;
 }
+
 .nav{
     background-image: radial-gradient(circle at 75.17% -3.97%, #bbe3ff 0, #9db9f2 50%, #8091b6 100%);
     font-family: 'Source Sans 3', sans-serif;
     margin:-22px -8px -22px -8px;
 }
-
 
 #h1{
     font-size: 45px;
